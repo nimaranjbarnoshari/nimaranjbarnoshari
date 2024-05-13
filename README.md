@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi  👋 My name Nima Ranjbar Noshari
+======
+
+<h3>About me</h3>
+
+
+<h3>My skils</h3>
+
+
+<h3>I'm learning</h3>
+
+
+
+
 
 <!--
 **nimaranjbarnoshari/nimaranjbarnoshari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
