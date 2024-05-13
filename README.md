@@ -6,13 +6,22 @@ Front End Developer
 ### Skils
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/53b494aeb89ea3d754a9a7d01cfe5404dca1798b/HTML.svg" width="36" height="36" alt="HTML"/>
-<img src="" width="36" height="36" />
-<img src="" width="36" height="36" />
-<img src="" width="36" height="36" />
-<img src="" width="36" height="36" />
-<img src="" width="36" height="36" />
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/CSS.svg" width="36" height="36" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Sass.svg" width="36" height="36" alt="Sass"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Bootstrap.svg" width="36" height="36" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/TailwindCSS-Light.svg" width="36" height="36" alt="Tailwind"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/JavaScript.svg" width="36" height="36" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/React-Light.svg" width="36" height="36" alt="ReactJS"/>
 </p>
-<h3>I'm learning</h3>
+
+### Learning
+<p>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Redux.svg" width="36" height="36" alt="Redsux"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/NextJS-Light.svg" width="36" height="36" alt="NextJ"/>
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/TypeScript.svg" width="36" height="36" alt="TypeScript"/>
+</p>
+
+
 
 
 
