@@ -4,13 +4,14 @@ Front End Developer
 ------
 
 ### Skils
+<p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/53b494aeb89ea3d754a9a7d01cfe5404dca1798b/HTML.svg" width="36" height="36" alt="HTML"/>
 <img src="" width="36" height="36" />
 <img src="" width="36" height="36" />
 <img src="" width="36" height="36" />
 <img src="" width="36" height="36" />
 <img src="" width="36" height="36" />
-
+</p>
 <h3>I'm learning</h3>
 
 
