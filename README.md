@@ -1,11 +1,10 @@
-Hi  👋 My name Nima Ranjbar Noshari
+Hi  👋 My name is Nima Ranjbar Noshari
 ======
+Front End Developer
+------
 
-<h3>About me</h3>
-
-
-<h3>My skils</h3>
-
+### Skils
+<img src="" />
 
 <h3>I'm learning</h3>
 
