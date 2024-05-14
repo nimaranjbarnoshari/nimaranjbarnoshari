@@ -2,8 +2,8 @@ Hi  👋 My name is Nima Ranjbar Noshari
 ======
 Front End Developer
 ------
-
-### Skills
+<br/>
+<h2>Skills</h2>
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/53b494aeb89ea3d754a9a7d01cfe5404dca1798b/HTML.svg" width="36" height="36" alt="HTML"/>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/CSS.svg" width="36" height="36" alt="CSS"/>
@@ -14,14 +14,23 @@ Front End Developer
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/React-Light.svg" width="36" height="36" alt="ReactJS"/>
 </p>
 
-### Learning
+
+<h2>Learning</h2>
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Redux.svg" width="36" height="36" alt="Redsux"/>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/NextJS-Light.svg" width="36" height="36" alt="NextJ"/>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/TypeScript.svg" width="36" height="36" alt="TypeScript"/>
 </p>
 
-### Socials
+<br/>
+
+<h2>Github Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimaranjbarnoshari&show_icons=true&theme=radical"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaranjbarnoshari&theme=radical"/>
+</p>
+
+<h2>Socials</h2>
 <p>
   <a href="https://www.linkedin.com/in/nima-ranjbar-noshari-724b692b4" target="_blank"><img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/5a7ad83a5bc58c6a6232aebb595923521efbf9c4/LinkedIn.svg" width="30" height="30" alt="LinkedIn"/></a>
   <a href="https://wa.me/989214844154" target="_blank"><img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/5a7ad83a5bc58c6a6232aebb595923521efbf9c4/whatsapp%20(1).svg" width="30" height="30" alt="Whatsapp"/></a>
