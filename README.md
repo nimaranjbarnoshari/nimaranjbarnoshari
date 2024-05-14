@@ -1,7 +1,6 @@
-Hi  👋 My name is Nima Ranjbar Noshari
-======
-Front End Developer
-------
+### Hi 👋 My name is Nima Ranjbar Noshari
+<br/> 
+<h2> Front End Developer</h2>
 <br/>
 <h2>Skills</h2>
 <p>
@@ -26,8 +25,8 @@ Front End Developer
 
 <h2>Github Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nimaranjbarnoshari&show_icons=true&theme=radical"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaranjbarnoshari&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nimaranjbarnoshari&show_icons=true&theme=radical" height="200"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimaranjbarnoshari&theme=radical" height="200"/>
 </p>
 
 <h2>Socials</h2>
