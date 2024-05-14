@@ -1,7 +1,11 @@
-### Hi 👋 My name is Nima Ranjbar Noshari
-<br/> 
-<h2> Front End Developer</h2>
-<br/>
+let me = {<br/>
+&nbsp; &nbsp; name: &nbsp; "Nima",<br/>
+&nbsp; &nbsp; family: &nbsp; "Ranjbar Noshari",<br/>
+&nbsp; &nbsp; job: &nbsp; "Front End Developer",<br/>
+&nbsp; &nbsp; location: &nbsp; "karaj",<br/>
+  }
+
+  
 <h2>Skills</h2>
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/53b494aeb89ea3d754a9a7d01cfe5404dca1798b/HTML.svg" width="36" height="36" alt="HTML"/>
