@@ -6,7 +6,7 @@ const me = {<br/>
   }
 
   
-<h2>Skills</h2>
+<h2>My Skills</h2>
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/53b494aeb89ea3d754a9a7d01cfe5404dca1798b/HTML.svg" width="36" height="36" alt="HTML"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/CSS.svg" width="36" height="36" alt="CSS"/>&nbsp;
@@ -18,7 +18,7 @@ const me = {<br/>
 </p>
 
 
-<h2>Learning</h2>
+<h2>I'm Learning</h2>
 <p>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Redux.svg" width="36" height="36" alt="Redsux"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/NextJS-Light.svg" width="36" height="36" alt="NextJ"/>&nbsp;
