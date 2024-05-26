@@ -15,6 +15,7 @@ const me = {<br/>
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/TailwindCSS-Light.svg" width="36" height="36" alt="Tailwind"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/JavaScript.svg" width="36" height="36" alt="JavaScript"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/React-Light.svg" width="36" height="36" alt="ReactJS"/>&nbsp;
+<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Redux.svg" width="36" height="36" alt="Redsux"/>&nbsp;
 </p>
 
 
