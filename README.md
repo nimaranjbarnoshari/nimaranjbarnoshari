@@ -21,7 +21,6 @@ const me = {<br/>
 
 <h2>I'm Learning</h2>
 <p>
-<img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/Redux.svg" width="36" height="36" alt="Redsux"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/NextJS-Light.svg" width="36" height="36" alt="NextJ"/>&nbsp;
 <img src="https://raw.githubusercontent.com/nimaranjbarnoshari/nimaranjbarnoshari/cb066466926a0e68d42d92fa3b1c17faadf662a3/TypeScript.svg" width="36" height="36" alt="TypeScript"/>&nbsp;
 </p>
