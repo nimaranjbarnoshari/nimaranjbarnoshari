@@ -2,7 +2,7 @@ const me = {<br/>
 &nbsp; &nbsp; name: &nbsp; "Nima",<br/>
 &nbsp; &nbsp; family: &nbsp; "Ranjbar Noshari",<br/>
 &nbsp; &nbsp; job: &nbsp; "Front End Developer",<br/>
-&nbsp; &nbsp; location: &nbsp; "karaj",<br/>
+&nbsp; &nbsp; location: &nbsp; "Karaj",<br/>
   }
 
   
